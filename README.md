@@ -120,5 +120,3 @@ https://github.com/DevCage27
 ---
 
 # ⭐ Obrigado por visitar!
-
-🚀 Sempre aprendendo, sempre evoluindo.
