@@ -1,5 +1,5 @@
 # AboutMe - Uma página simples com HTML e CSS
-# 👨‍💻 AboutMe
+# 🙋‍♀️ AboutMe
 
 Este repositório contém o código-fonte do meu projeto pessoal de apresentação, desenvolvido para demonstrar minhas habilidades, conhecimentos e evolução na área de tecnologia por meio do curso Transforme-se.
 
@@ -110,7 +110,7 @@ Open with Live Server
 
 ---
 
-# 👨‍💻 Autor
+# 👩‍💻 Autor
 
 **DevCage27**
 
