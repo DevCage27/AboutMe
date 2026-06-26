@@ -97,17 +97,6 @@ Open with Live Server
 - Visual Studio Code
 - Git
 - GitHub
-
----
-
-# 🔮 Próximas melhorias
-
-- Melhorar responsividade para dispositivos móveis
-- Adicionar novas animações
-- Implementar novos projetos
-- Melhorar acessibilidade
-- Otimizar desempenho
-
 ---
 
 # 👩‍💻 Autor
